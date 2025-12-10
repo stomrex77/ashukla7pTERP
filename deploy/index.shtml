@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CMSC335 Project 7 - Hosting</title>
+</head>
+<body>
+    <h1>CMSC335 Project #7 - Hosting</h1>
+
+    <p><strong>Name:</strong> Abhijay Shukla</p>
+
+    <p><strong>GitHub Location:</strong>
+        <a href="https://github.com/GITHUB_USERNAME/ashukla7pTERP">
+            https://github.com/GITHUB_USERNAME/ashukla7pTERP
+        </a>
+    </p>
+
+    <p><strong>Render Location:</strong>
+        <a href="https://RENDER_URL">
+            https://RENDER_URL
+        </a>
+    </p>
+
+    <p><strong>Clearing Database Movies:</strong>
+        <a href="https://RENDER_URL/clearCollection">
+            https://RENDER_URL/clearCollection
+        </a>
+    </p>
+
+    <p><strong>Inserting Movies:</strong>
+        <a href="https://RENDER_URL/insertMovies">
+            https://RENDER_URL/insertMovies
+        </a>
+    </p>
+
+    <p><strong>List Movies:</strong>
+        <a href="https://RENDER_URL/listMovies">
+            https://RENDER_URL/listMovies
+        </a>
+    </p>
+</body>
+</html>
